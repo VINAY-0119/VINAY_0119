@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/VINAY-0119/VINAY-0119/blob/main/banner.png" alt="Aspiring Software Engineer Banner" width="100%">
+  <img src="" alt="Aspiring Software Engineer Banner" width="100%">
 </p>
 
 <h1 align="center">Hi, I'm Vinay Kumar R</h1>

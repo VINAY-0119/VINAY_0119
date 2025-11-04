@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=24&color=00BFFF&center=true&vCenter=true&lines=Hi%2C+I'm+Vinay+Kumar+R;Aspiring+Software+Engineer;AI%2C+IoT+%26+Embedded+Systems+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=25&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Vinay+Kumar+R;Aspiring+Software+Engineer;AI%2C+IoT+%26+Embedded+Systems+Enthusiast" alt="Typing Animation" />
 </p>
 
 <p align="center">
@@ -16,16 +16,16 @@
 
 ---
 
-## 👨‍💻 About Me
-I’m an **Electronics and Communication Engineering student** passionate about integrating **AI, IoT, and Embedded Systems** to build smarter real-world solutions.  
-I love exploring how **machine intelligence** can enhance automation, connectivity, and data-driven decision-making.
+## 👨‍💻 About Me  
+I’m an **Electronics and Communication Engineering student** passionate about fusing **AI, IoT, and Embedded Systems** to build intelligent, connected solutions.  
+I enjoy exploring how **machine intelligence** can optimize automation, connectivity, and real-world decision-making.
 
-💡 **Current Focus:**  
-AI-driven automation • IoT analytics • Data science for embedded systems
+🎯 **Current Focus:**  
+AI-driven automation • IoT analytics • Data science for embedded systems  
 
 ---
 
-## 🧠 Technical Expertise
+## 🧠 Technical Expertise  
 
 | Category | Tools & Technologies |
 |-----------|---------------------|
@@ -38,106 +38,109 @@ AI-driven automation • IoT analytics • Data science for embedded systems
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects  
 
 ### 🧩 [AI Agent using Hugging Face](https://github.com/VINAY-0119/huggingface-ai-agent)
-- Built an intelligent agent for **sentiment analysis** and **text summarization**.  
-- Deployed via **Flask** with a 30% boost in inference speed.  
+- Built an intelligent agent for **sentiment analysis** and **text summarization**  
+- Deployed via **Flask**, achieving a **30% boost in inference speed**  
 - **Tech Stack:** Python, Transformers, Flask  
 
 ---
 
 ### 💬 [AI Chatbot](https://github.com/VINAY-0119/AI-Chatbot)
-- Designed a **domain-specific chatbot** trained on 2,000+ intent-response pairs.  
-- Integrated **RESTful APIs** for seamless real-time interaction.  
+- Developed a **domain-specific chatbot** trained on 2,000+ intent-response pairs  
+- Integrated **RESTful APIs** for real-time interaction  
 - **Tech Stack:** Python, NLP, Flask, API  
 
 ---
 
 ### 🌦️ [Weather Forecast Application](https://github.com/VINAY-0119/Weather-Application)
-- Created a **real-time weather app** using the OpenWeather API.  
-- Added **location-based forecasts** and error handling for usability.  
+- Created a **real-time weather app** using OpenWeather API  
+- Implemented **location-based forecasts** and improved **error handling**  
 - **Tech Stack:** Python, Tkinter, API  
 
 ---
 
 ### 📊 [HR Analytical Dashboard](https://github.com/VINAY-0119/HR-Analytical-Dashboard)
-- Built a **Power BI dashboard** for workforce analytics and attrition trends.  
-- Improved data model efficiency by 25%.  
+- Designed a **Power BI dashboard** for workforce insights and attrition trends  
+- Optimized data model efficiency by **25%**  
 - **Tech Stack:** Power BI, Excel  
 
 ---
 
 ### ⚡ [Predicting Electric Vehicle Range](https://github.com/VINAY-0119/Predicting-the-Range-of-Electric-Vehicles-Week-1-)
-- Developed an **ML regression model** to predict EV range.  
-- Achieved **R² = 0.89** with effective parameter tuning.  
+- Built an **ML regression model** to predict EV range  
+- Achieved **R² = 0.89** through effective parameter tuning  
 - **Tech Stack:** Python, Pandas, Scikit-learn  
 
 ---
 
 ### 🤖 [WhatsApp n8n Bot](https://github.com/VINAY-0119/whatsapp-n8n-bot)
-- Automated workflows using **n8n** and **WhatsApp Cloud API**.  
-- Reduced manual response time by 40%.  
+- Automated workflows using **n8n** and **WhatsApp Cloud API**  
+- Reduced manual response time by **40%**  
 - **Tech Stack:** n8n, JavaScript, WhatsApp API  
 
 ---
 
-## 💼 Professional Experience
+## 💼 Professional Experience  
 
-### Deloitte – *Virtual Internship (Forage)*  
-- Performed **data-driven business modeling** for financial decisions.  
-- Simulated **risk analysis** through business case studies.  
-- Delivered **visual insights** with Excel and Power BI.  
-
----
-
-### JPMorgan Chase & Co. – *Virtual Internship (Forage)*  
-- Built **real-time Kafka pipelines** and REST APIs.  
-- Improved backend efficiency via **asynchronous request handling**.  
-- Enhanced code reliability through optimization and debugging.  
+### 🏢 Deloitte – *Virtual Internship (Forage)*  
+- Performed **data-driven business modeling** for financial decision-making  
+- Conducted **risk analysis simulations** and presented visual insights  
+- Tools: Excel, Power BI  
 
 ---
 
-### AISECT – *Data Science Internship*  
-- Handled **data preprocessing, visualization, and modeling**.  
-- Applied **ML algorithms** for predictive analytics.  
-- Worked with **Python, Pandas, Scikit-learn**.  
+### 🏦 JPMorgan Chase & Co. – *Virtual Internship (Forage)*  
+- Built **real-time Kafka pipelines** and **REST APIs**  
+- Enhanced backend performance via **asynchronous request handling**  
+- Improved **code reliability** through optimization and debugging  
 
 ---
 
-### AISECT – *Digital Marketing Internship*  
-- Executed **digital marketing strategies** and campaign analytics.  
-- Tracked SEO and engagement metrics to improve visibility.  
+### 🔍 AISECT – *Data Science Internship*  
+- Worked on **data preprocessing, visualization, and predictive modeling**  
+- Applied **ML algorithms** for analytics-driven insights  
+- Tools: Python, Pandas, Scikit-learn  
 
 ---
 
-## 🎓 Education
+### 📢 AISECT – *Digital Marketing Internship*  
+- Managed **SEO and campaign performance tracking**  
+- Executed strategies that improved digital engagement metrics  
+
+---
+
+## 🎓 Education  
 **C Byregowda Institute of Technology, Karnataka**  
 *B.E. in Electronics & Communication Engineering (2023 – 2027)*  
 
 ---
 
-## 📜 Certifications
-- Introduction to Generative AI – Google  
+## 📜 Certifications  
+- Introduction to Generative AI – *Google*  
 - Microsoft Certified: Systems Administrator (Machine Learning)  
 - Google Cloud Fundamentals  
 - TCS iON Career Edge – Young Professional  
-- Career Essentials in Business Analysis – Microsoft  
+- Career Essentials in Business Analysis – *Microsoft*  
 
 ---
 
-## 📈 GitHub Analytics
+## 📈 GitHub Analytics  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VINAY-0119&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VINAY-0119&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=VINAY-0119&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VINAY-0119&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
 </p>
 
 ---
 
-## 📫 Let’s Connect
-- **GitHub:** [github.com/VINAY-0119](https://github.com/VINAY-0119)  
-- **LinkedIn:** [linkedin.com/in/vinay-kumar-r-9676bb2a0](https://www.linkedin.com/in/vinay-kumar-r-9676bb2a0)  
-- **Email:** [rvinaykumar817@gmail.com](mailto:rvinaykumar817@gmail.com)
+## 📫 Let’s Connect  
+<p align="center">
+  <a href="https://github.com/VINAY-0119" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/vinay-kumar-r-9676bb2a0" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:rvinaykumar817@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
 ---
 

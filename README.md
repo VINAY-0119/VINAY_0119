@@ -1,122 +1,146 @@
-<!-- ⚡ J.A.R.V.I.S. Style Futuristic README for Vinay Kumar R ⚡ -->
-
+<!-- Futuristic Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Hello%2C+I'm+Vinay+Kumar+R!;AI+%7C+IoT+%7C+Embedded+Systems+Engineer;Engineer+by+Logic%2C+Innovator+by+Heart;Welcome+to+My+Digital+Universe" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;ACCESS+GRANTED.;Welcome+Commander+Vinay+Kumar+R;AI+%7C+IoT+%7C+Embedded+Systems+Engineer;Engineer+by+Logic%2C+Innovator+by+Heart" />
 </p>
 
+<!-- Glowing Divider -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 </p>
 
+<!-- Profile Links -->
 <p align="center">
-  <a href="https://vinay-0119.github.io/portfolio" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Live-00FFFF?style=for-the-badge&logo=firefox&logoColor=white"/></a>
-  <a href="mailto:rvinaykumar817@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/vinay-kumar-r-9676bb2a0" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/VINAY-0119"><img src="https://img.shields.io/badge/GitHub-VINAY--0119-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/vinay-kumar-r-9676bb2a0">
+    <img src="https://img.shields.io/badge/LinkedIn-Vinay%20Kumar%20R-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:rvinaykumar817@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/VINAY-0119">
+    <img src="https://img.shields.io/badge/GitHub-VINAY--0119-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://vinay-0119.github.io/portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-Explore-FF9800?style=for-the-badge&logo=firefox&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 🧭 About Me
+## ⚙️ SYSTEM OVERVIEW
 
-> “Technology bridges imagination and impact — I build systems where logic meets intelligence.”
-
-Hi there! I’m **Vinay Kumar R**, an **Electronics & Communication Engineering** student driven by curiosity and innovation.  
-I specialize in **AI, IoT, and Embedded Systems**, building **smart, connected, and adaptive solutions** that bring ideas to life.
-
-🔹 **Mission:** Engineering intelligence into the everyday world  
-🔹 **Focus Areas:** AI Automation, IoT Systems, Embedded Intelligence  
-🔹 **Currently Exploring:** Edge AI and Adaptive Learning Systems  
+**👨‍💻 Name:** Vinay Kumar R  
+**🎓 Major:** Electronics & Communication Engineering  
+**🚀 Mission:** Bridging intelligence and innovation through AI-driven embedded and IoT systems.  
+**🧠 Philosophy:** *Engineering intelligence into the real world — one algorithm at a time.*
 
 ---
 
-## ⚙️ Technical Expertise
+## 🧭 TECHNICAL EXPERTISE
 
-| **Domain** | **Tools & Frameworks** |
-|-------------|--------------------------|
+| Domain | Tools & Frameworks |
+|--------|--------------------|
 | **Programming** | Python, C, C++, JavaScript |
 | **AI & ML** | TensorFlow, Scikit-learn, Hugging Face |
 | **Data Analytics** | Pandas, NumPy, Power BI |
 | **Embedded Systems** | Arduino, Raspberry Pi, Proteus, MATLAB |
 | **IoT & Cloud** | MQTT, Firebase, REST APIs |
-| **Web Dev** | Flask, FastAPI, HTML, CSS |
+| **Web & API Development** | Flask, FastAPI, HTML, CSS |
 | **Version Control** | Git, GitHub |
-| **Soft Skills** | Leadership, Creativity, Analytical Thinking |
+| **Soft Skills** | Leadership, Analytical Thinking, Innovation |
 
 ---
 
-## 🚀 Signature Projects
+## 🧩 CORE FUNCTIONS
 
-### 🤖 [Hugging Face AI Agent](https://github.com/VINAY-0119/huggingface-ai-agent)
-> Multi-tasking AI agent for **sentiment analysis** and **text summarization**.
-- Optimized response latency by **30%** through model quantization.  
-- **Stack:** Python, Hugging Face, Flask  
+- 🤖 Building **AI chatbots** and virtual agents  
+- 🌐 Developing **IoT automation systems**  
+- 📊 Creating **data analytics dashboards**  
+- ⚙️ Deploying **ML models on embedded devices**  
+- ⚡ Optimizing algorithms for **performance and efficiency**
+
+---
+
+## 🚀 PROJECT HIGHLIGHTS
+
+### 🤖 [AI Agent – Hugging Face](https://github.com/VINAY-0119/huggingface-ai-agent)
+> Multi-tasking AI agent for real-time text processing.  
+> ⚙️ Stack: Python | Flask | Transformers  
+> ⚡ Improved response latency by **30%** using quantization.
 
 ---
 
 ### 💬 [AI Chatbot](https://github.com/VINAY-0119/AI-Chatbot)
-> Context-aware chatbot trained on **2,000+ intents**.
-- Deployed REST API for real-time chat interaction.  
-- Enhanced NLP performance through custom pipeline tuning.  
+> Context-aware chatbot trained on 2,000+ intents.  
+> ⚙️ Stack: Python | Flask | REST API  
+> 🔍 Enhanced contextual accuracy with custom NLP pipeline.
 
 ---
 
 ### ⚡ [EV Range Prediction](https://github.com/VINAY-0119/Predicting-the-Range-of-Electric-Vehicles-Week-1-)
-> Built regression models to predict EV range with **R² = 0.89**.  
-- **Stack:** Python, Scikit-learn, Matplotlib  
+> ML regression model predicting electric vehicle range.  
+> ⚙️ Stack: Python | Scikit-learn | Matplotlib  
+> 📈 Achieved **R² = 0.89** after fine-tuning.
 
 ---
 
-### 🌦️ [Weather Forecast Application](https://github.com/VINAY-0119/Weather-Application)
-> GUI-based app with **real-time weather updates** using OpenWeather API.  
-- Integrated **geolocation-based predictions**.  
+### 🌦️ [Weather Forecast App](https://github.com/VINAY-0119/Weather-Application)
+> GUI-based real-time weather app with geolocation.  
+> ⚙️ Stack: Python | Tkinter | OpenWeather API
 
 ---
 
 ### 📊 [HR Analytical Dashboard](https://github.com/VINAY-0119/HR-Analytical-Dashboard)
-> Power BI dashboard analyzing **attrition & workforce performance**.  
-- Improved KPI tracking by 25%.  
+> HR performance analysis dashboard.  
+> ⚙️ Stack: Power BI | Excel  
+> 📉 Increased performance metric visibility by 25%.
 
 ---
 
-### 🤖 [WhatsApp n8n Bot](https://github.com/VINAY-0119/whatsapp-n8n-bot)
-> Automated WhatsApp workflows with n8n and Cloud API.  
-- Reduced manual responses by 40%.  
+### 🧠 [WhatsApp n8n Bot](https://github.com/VINAY-0119/whatsapp-n8n-bot)
+> Automated workflow bot using WhatsApp Cloud API.  
+> ⚙️ Stack: JavaScript | n8n | REST API  
+> ⚡ Reduced message response time by 40%.
 
 ---
 
-## 💼 Professional Experience
+## 💼 EXPERIENCE
 
-**💠 Deloitte – Virtual Internship (Forage)**  
-> Performed **financial risk modeling** and **Power BI** data analysis.
+### 💠 Deloitte – Virtual Internship (Forage)
+- Built **Power BI** financial dashboards.
+- Delivered insights for strategic decision systems.
 
-**🏦 JPMorgan Chase & Co. – Virtual Internship (Forage)**  
-> Configured **Kafka pipelines** and improved backend API efficiency.
+### 🏦 JPMorgan Chase & Co. – Virtual Internship (Forage)
+- Configured **Kafka pipelines** and asynchronous REST APIs.
+- Improved backend efficiency and performance.
 
-**📊 AISECT – Data Science Internship**  
-> Focused on **data preprocessing, visualization**, and **ML modeling**.
+### 📊 AISECT – Data Science Intern
+- Developed **predictive models** and analytics dashboards.
+- Applied ML on real-world datasets for actionable outcomes.
 
-**📣 AISECT – Digital Marketing Internship**  
-> Designed SEO-driven digital campaigns using analytics insights.
+### 📢 AISECT – Digital Marketing Intern
+- Designed **SEO-optimized campaigns** and analytics reports.
+- Boosted user engagement metrics significantly.
 
 ---
 
-## 🎓 Education
+## 🎓 EDUCATION
+
 **C Byregowda Institute of Technology, Karnataka**  
-*Bachelor of Engineering – Electronics & Communication (2023 – 2027)*  
+*B.E. in Electronics & Communication Engineering (2023 – 2027)*
 
 ---
 
-## 🏅 Certifications
-- ✅ Introduction to Generative AI – Google  
-- ✅ Microsoft Certified: Systems Administrator (ML)  
-- ✅ Google Cloud Fundamentals  
-- ✅ Career Essentials in Business Analysis – Microsoft  
-- ✅ TCS iON Career Edge – Young Professional  
+## 🏅 CERTIFICATIONS
+
+- Google – Introduction to Generative AI  
+- Microsoft – Systems Administrator (ML)  
+- Google Cloud Fundamentals  
+- Microsoft – Career Essentials in Business Analysis  
+- TCS iON – Career Edge: Young Professional  
 
 ---
 
-## 🧩 Tools & Tech Stack
+## ⚡ TECH MATRIX
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,c,flask,tensorflow,arduino,matlab,raspberrypi,git,github,vscode,powerbi,linux,fastapi,mysql&perline=7" />
@@ -124,51 +148,55 @@ I specialize in **AI, IoT, and Embedded Systems**, building **smart, connected, 
 
 ---
 
-## 📊 GitHub Insights
+## 📊 PERFORMANCE METRICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VINAY-0119&show_icons=true&theme=react&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VINAY-0119&theme=react&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=VINAY-0119&show_icons=true&theme=react&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VINAY-0119&theme=react&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VINAY-0119&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" width="95%" alt="GitHub Activity Graph"/>
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VINAY-0119&theme=onestar&no-frame=true&margin-w=15" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VINAY-0119&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" width="95%" />
 </p>
 
 ---
 
-## 🌍 Coding Metrics
+## 🏆 ACHIEVEMENTS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=VINAY0119&theme=react&layout=compact&hide_border=true" width="450" />
+  <img src="https://github-profile-trophy.vercel.app/?username=VINAY-0119&theme=darkhub&no-frame=true&margin-w=15" width="95%" />
 </p>
 
 ---
 
-## 📫 Connect With Me
+## 🌍 CODING ACTIVITY
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vinay-kumar-r-9676bb2a0"><img src="https://img.shields.io/badge/LinkedIn-Message-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:rvinaykumar817@gmail.com"><img src="https://img.shields.io/badge/Gmail-Connect-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/VINAY-0119"><img src="https://img.shields.io/badge/GitHub-Explore-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=VINAY0119&theme=react&layout=compact&hide_border=true" width="450"/>
 </p>
 
 ---
+
+## 📡 CONNECT WITH ME
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vinay-kumar-r-9676bb2a0">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:rvinaykumar817@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Message-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/VINAY-0119">
+    <img src="https://img.shields.io/badge/GitHub-View_Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>“Technology isn’t just built — it’s evolved. I engineer systems that think, adapt, and inspire.”</b>
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 </p>
-
-<p align="center">
-  <b>“Like J.A.R.V.I.S., I aim to make technology feel intuitive, intelligent, and alive.”</b>
-</p>
-
----

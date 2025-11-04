@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<h1 align="center">⚙️ SYSTEM ONLINE: <span style="color:#58a6ff">Vinay Kumar R</span></h1>
+ <span style="color:#58a6ff">Vinay Kumar R</span></h1>
 
 <p align="center">
   <b>AI | IoT | Embedded Systems Engineer</b><br>

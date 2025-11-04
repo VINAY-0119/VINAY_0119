@@ -1,136 +1,144 @@
-<!-- 6D Futuristic Gradient Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=4DD0E1&center=true&vCenter=true&width=700&lines=Vinay+Kumar+R;AI+%7C+IoT+%7C+Embedded+Systems+Engineer;Innovating+Smart+Intelligence;Bridging+Hardware+%26+Machine+Learning;Transforming+Ideas+Into+Tech+Realities" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=24&color=00BFFF&center=true&vCenter=true&lines=Hi%2C+I'm+Vinay+Kumar+R;Aspiring+Software+Engineer;AI%2C+IoT+%26+Embedded+Systems+Enthusiast" />
 </p>
 
-<!-- Hyperlinked Badges -->
 <p align="center">
-  <a href="https://linkedin.com/in/vinay-kumar-r-9676bb2a0"><img src="https://img.shields.io/badge/LinkedIn-Vinay%20Kumar%20R-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:rvinaykumar817@gmail.com"><img src="https://img.shields.io/badge/Email-rvinaykumar817%40gmail.com-D14836?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://github.com/VINAY-0119"><img src="https://img.shields.io/badge/GitHub-VINAY--0119-181717?style=for-the-badge&logo=github" /></a>
-  <a href="https://vinay-0119.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-Live-FF9800?style=for-the-badge&logo=firefox-browser" /></a>
+  <a href="https://www.linkedin.com/in/vinay-kumar-r-9676bb2a0" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:rvinaykumar817@gmail.com">
+    <img src="https://img.shields.io/badge/Email-rvinaykumar817%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://github.com/VINAY-0119">
+    <img src="https://img.shields.io/badge/GitHub-VINAY--0119-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
 </p>
 
 ---
 
-## 🌌 About Me
+## 👨‍💻 About Me
+I’m an **Electronics and Communication Engineering student** passionate about integrating **AI, IoT, and Embedded Systems** to build smarter real-world solutions.  
+I love exploring how **machine intelligence** can enhance automation, connectivity, and data-driven decision-making.
 
-I’m **Vinay Kumar R**, a forward-thinking **AI & IoT Engineer** with a focus on **Embedded Intelligence** — crafting systems where **hardware learns, adapts, and evolves**.  
-I merge **machine learning algorithms** with **physical hardware** to develop **smart, autonomous ecosystems**.
-
-- 🔭 **Research Focus:** AI-driven edge computing & adaptive IoT frameworks  
-- ⚙️ **Engineering Vision:** Fuse data, devices, and deep learning  
-- 🚀 **Current Work:** Real-time neural inference on microcontrollers  
-- 🧩 **Philosophy:** Innovation starts at the intersection of circuits & code  
+💡 **Current Focus:**  
+AI-driven automation • IoT analytics • Data science for embedded systems
 
 ---
 
-## 💼 Professional Summary
+## 🧠 Technical Expertise
 
-| Role | Organization | Key Contributions |
-|------|---------------|-------------------|
-| **AI Intern** | **AISECT** | Built end-to-end ML pipelines, optimized feature engineering |
-| **Data Science Intern** | **AISECT** | Deployed predictive models & analytical dashboards |
-| **Digital Marketing Analyst** | **AISECT** | Applied analytics to boost campaign performance |
-| **Virtual Engineer** | **Deloitte** | Created data visualization models for financial insights |
-| **Software Analyst** | **JPMorgan Chase & Co.** | Configured real-time Kafka stream processing |
-
----
-
-## 🧠 Core Competencies
-
-| Category | Expertise |
-|----------|------------|
-| **AI/ML Frameworks** | TensorFlow, Scikit-learn, PyTorch, Hugging Face |
-| **IoT & Embedded Systems** | Arduino, Raspberry Pi, Proteus, MATLAB |
-| **Programming Languages** | Python, C, C++, JavaScript |
-| **Cloud & APIs** | Firebase, REST, FastAPI, MQTT |
-| **Data Analytics** | Pandas, NumPy, Power BI, Excel |
-| **System Tools** | Git, GitHub, Linux, VS Code, Docker |
-| **Soft Skills** | Problem Solving, Leadership, Innovation, Team Collaboration |
+| Category | Tools & Technologies |
+|-----------|---------------------|
+| **Languages** | C, C++, Python |
+| **AI & ML** | Hugging Face, Scikit-learn |
+| **Embedded Systems** | Arduino, MATLAB, Proteus |
+| **Software & APIs** | Git, REST APIs, VS Code |
+| **Core Domains** | AI Agents, Chatbots, IoT, Data Science |
+| **Soft Skills** | Problem Solving, Communication, Teamwork, Adaptability |
 
 ---
 
-## ⚙️ Innovation Highlights
+## 🚀 Featured Projects
 
-### 🧩 [Hugging Face AI Agent](https://github.com/VINAY-0119/huggingface-ai-agent)
-Developed a **neural assistant** capable of contextual sentiment analysis and intelligent summarization.  
-> ⚡ Reduced latency by 30% using quantization and optimized transformers.
+### 🧩 [AI Agent using Hugging Face](https://github.com/VINAY-0119/huggingface-ai-agent)
+- Built an intelligent agent for **sentiment analysis** and **text summarization**.  
+- Deployed via **Flask** with a 30% boost in inference speed.  
+- **Tech Stack:** Python, Transformers, Flask  
 
-### 🤖 [AI Chatbot](https://github.com/VINAY-0119/AI-Chatbot)
-Context-aware, ML-powered chatbot integrated with a **custom NLP pipeline** for response relevance.
+---
 
-### 🔋 [EV Range Prediction Model](https://github.com/VINAY-0119/Predicting-the-Range-of-Electric-Vehicles-Week-1-)
-Designed a regression model predicting electric vehicle range with **89% accuracy (R² = 0.89)**.
+### 💬 [AI Chatbot](https://github.com/VINAY-0119/AI-Chatbot)
+- Designed a **domain-specific chatbot** trained on 2,000+ intent-response pairs.  
+- Integrated **RESTful APIs** for seamless real-time interaction.  
+- **Tech Stack:** Python, NLP, Flask, API  
 
-### 🌦️ [Weather Forecast App](https://github.com/VINAY-0119/Weather-Application)
-Real-time weather GUI leveraging **OpenWeatherMap API + geolocation tracking**.
+---
+
+### 🌦️ [Weather Forecast Application](https://github.com/VINAY-0119/Weather-Application)
+- Created a **real-time weather app** using the OpenWeather API.  
+- Added **location-based forecasts** and error handling for usability.  
+- **Tech Stack:** Python, Tkinter, API  
+
+---
 
 ### 📊 [HR Analytical Dashboard](https://github.com/VINAY-0119/HR-Analytical-Dashboard)
-Power BI dashboard analyzing workforce attrition with advanced data visualization.
-
-### 💬 [WhatsApp n8n Automation Bot](https://github.com/VINAY-0119/whatsapp-n8n-bot)
-Built an **automated WhatsApp response system** reducing manual workload by 40%.
-
----
-
-## 🏆 Certifications
-- Google – *Introduction to Generative AI*  
-- Microsoft – *Career Essentials in Business Analysis*  
-- TCS iON – *Career Edge: Young Professional*  
-- Microsoft – *Systems Administration for ML Engineers*  
-- Google Cloud – *Fundamentals of Cloud Computing*  
+- Built a **Power BI dashboard** for workforce analytics and attrition trends.  
+- Improved data model efficiency by 25%.  
+- **Tech Stack:** Power BI, Excel  
 
 ---
 
-## 📈 Tech Analytics Dashboard
+### ⚡ [Predicting Electric Vehicle Range](https://github.com/VINAY-0119/Predicting-the-Range-of-Electric-Vehicles-Week-1-)
+- Developed an **ML regression model** to predict EV range.  
+- Achieved **R² = 0.89** with effective parameter tuning.  
+- **Tech Stack:** Python, Pandas, Scikit-learn  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VINAY-0119&show_icons=true&theme=algolia&hide_border=true&count_private=true&include_all_commits=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VINAY-0119&theme=algolia&hide_border=true" height="160"/>
-</p>
+---
 
+### 🤖 [WhatsApp n8n Bot](https://github.com/VINAY-0119/whatsapp-n8n-bot)
+- Automated workflows using **n8n** and **WhatsApp Cloud API**.  
+- Reduced manual response time by 40%.  
+- **Tech Stack:** n8n, JavaScript, WhatsApp API  
+
+---
+
+## 💼 Professional Experience
+
+### Deloitte – *Virtual Internship (Forage)*  
+- Performed **data-driven business modeling** for financial decisions.  
+- Simulated **risk analysis** through business case studies.  
+- Delivered **visual insights** with Excel and Power BI.  
+
+---
+
+### JPMorgan Chase & Co. – *Virtual Internship (Forage)*  
+- Built **real-time Kafka pipelines** and REST APIs.  
+- Improved backend efficiency via **asynchronous request handling**.  
+- Enhanced code reliability through optimization and debugging.  
+
+---
+
+### AISECT – *Data Science Internship*  
+- Handled **data preprocessing, visualization, and modeling**.  
+- Applied **ML algorithms** for predictive analytics.  
+- Worked with **Python, Pandas, Scikit-learn**.  
+
+---
+
+### AISECT – *Digital Marketing Internship*  
+- Executed **digital marketing strategies** and campaign analytics.  
+- Tracked SEO and engagement metrics to improve visibility.  
+
+---
+
+## 🎓 Education
+**C Byregowda Institute of Technology, Karnataka**  
+*B.E. in Electronics & Communication Engineering (2023 – 2027)*  
+
+---
+
+## 📜 Certifications
+- Introduction to Generative AI – Google  
+- Microsoft Certified: Systems Administrator (Machine Learning)  
+- Google Cloud Fundamentals  
+- TCS iON Career Edge – Young Professional  
+- Career Essentials in Business Analysis – Microsoft  
+
+---
+
+## 📈 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VINAY-0119&theme=react-dark&bg_color=0D1117&hide_border=true&line=00BFFF&color=00BFFF&area=true" width="95%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=VINAY-0119&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VINAY-0119&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages"/>
 </p>
 
 ---
 
-## 🧩 WakaTime Coding Metrics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=VINAY0119&theme=algolia&hide_border=true&layout=compact" width="450"/>
-</p>
+## 📫 Let’s Connect
+- **GitHub:** [github.com/VINAY-0119](https://github.com/VINAY-0119)  
+- **LinkedIn:** [linkedin.com/in/vinay-kumar-r-9676bb2a0](https://www.linkedin.com/in/vinay-kumar-r-9676bb2a0)  
+- **Email:** [rvinaykumar817@gmail.com](mailto:rvinaykumar817@gmail.com)
 
 ---
 
-## 🧬 Skill Universe
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,flask,tensorflow,arduino,raspberrypi,matlab,fastapi,git,github,linux,powerbi,vscode,mysql,docker&perline=8"/>
-</p>
-
----
-
-## 🧠 AI-Driven Engineering Vision
-> “The next era of intelligence belongs to devices that think, learn, and evolve.”
-
-I aim to **redefine IoT systems** through **AI at the edge**, making every sensor capable of smart decision-making.  
-My future work explores **TinyML**, **edge learning**, and **self-optimizing embedded systems**.
-
----
-
-## 🌍 Let’s Connect
-<p align="center">
-  <a href="https://linkedin.com/in/vinay-kumar-r-9676bb2a0"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:rvinaykumar817@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://github.com/VINAY-0119"><img src="https://img.shields.io/badge/GitHub-Projects-black?style=for-the-badge&logo=github" /></a>
-</p>
-
----
-
-<p align="center">
-  <b>“Engineering is not just code and circuits — it's the art of creating intelligent life from logic.”</b>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-</p>
+<p align="center"><b>“Technology bridges imagination and impact — I build solutions that make a difference.”</b></p>

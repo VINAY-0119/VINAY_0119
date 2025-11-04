@@ -106,14 +106,14 @@ My current focus includes **AI-driven automation**, **IoT-based analytics**, and
 
 ---
 
-### AISECT – Data Science Internship |
+### AISECT – Data Science Internship 
 - Worked on **data preprocessing, visualization, and model building**.  
 - Applied **machine learning algorithms** for predictive insights.  
 - Gained hands-on experience with **Python, Pandas, and Scikit-learn**.  
 
 ---
 
-### AISECT – Digital Marketing Internship |
+### AISECT – Digital Marketing Internship 
 - Designed and implemented **digital marketing strategies** for project campaigns.  
 - Analyzed **SEO performance, engagement metrics, and ad analytics**.  
 - Improved brand visibility using data-driven marketing insights.  

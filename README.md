@@ -43,64 +43,86 @@
 ## 🚀 PROJECTS MODULE
 
 ### 🤖 AI Agent (Hugging Face)
-- Designed a **multi-functional AI agent** for real-time text analysis.  
-- Tasks: Sentiment analysis, summarization, and contextual tagging.  
-- Stack: **Python | Flask | Transformers**  
-- Optimized response time by **30%** using model quantization.
+- Designed a **multi-functional AI agent** for **real-time text analysis** and automation.  
+- Integrated tasks: **sentiment analysis**, **summarization**, and **contextual tagging**.  
+- Deployed as a **Flask REST API** for easy integration into web apps.  
+- Improved response time by **30%** through **model quantization** and **pipeline optimization**.  
+- **Stack:** Python, Flask, Transformers, NumPy, Pandas  
 
 ---
 
 ### 💬 AI Chatbot
-- Created a **context-aware chatbot** with 2,000+ trained intents.  
-- Integrated with REST APIs for real-world deployment.  
-- Stack: **Python | Flask | NLP | REST API**
+- Built a **context-aware chatbot** with **2,000+ trained intents** using NLP techniques.  
+- Implemented **intent fallback**, **session context tracking**, and **sentiment-driven responses**.  
+- Integrated with **REST APIs** for live data retrieval (weather, tasks, etc.).  
+- Reduced API latency by **25%** through asynchronous handling.  
+- **Stack:** Python, Flask, NLP, REST API, TensorFlow  
 
 ---
 
 ### ⚡ EV Range Prediction
-- Built an **ML regression model** to estimate EV driving range.  
-- Achieved **R² = 0.89** after parameter optimization.  
-- Stack: **Python | Scikit-learn | Matplotlib**
+- Developed a **regression-based ML model** predicting **EV range** from energy consumption data.  
+- Achieved **R² = 0.89**, enhancing accuracy by tuning parameters with **GridSearchCV**.  
+- Conducted **data preprocessing** and **visual analysis** to interpret key performance indicators.  
+- **Stack:** Python, Scikit-learn, Matplotlib, Pandas  
 
 ---
 
 ### 🌦️ Weather Forecast App
-- GUI app with **real-time geolocation & live weather data**.  
-- Stack: **Python | Tkinter | OpenWeather API**
+- Created a **desktop GUI application** displaying **real-time weather and geolocation data**.  
+- Integrated **OpenWeather API** for live updates and visual weather icons.  
+- Added error handling and city-based search for user convenience.  
+- **Stack:** Python, Tkinter, OpenWeather API, Requests  
 
 ---
 
 ### 📊 HR Analytical Dashboard
-- Interactive **Power BI dashboard** for HR analytics and KPIs.  
-- Improved metric tracking efficiency by **25%**.  
-- Stack: **Power BI | Excel**
+- Designed an **interactive Power BI dashboard** for HR and employee data analytics.  
+- Automated report generation, reducing manual analysis by **25%**.  
+- Integrated **Excel-based datasets** with DAX formulas for dynamic KPI tracking.  
+- **Stack:** Power BI, Excel, DAX, Data Modeling  
 
 ---
 
 ### 🧠 WhatsApp Automation Bot
-- Automated WhatsApp workflows with **n8n & Cloud API**.  
-- Enhanced automation speed by **40%**.  
-- Stack: **JavaScript | n8n | WhatsApp API**
+- Built an **automation workflow** using **n8n** and **WhatsApp Cloud API**.  
+- Automated task reminders and responses, improving workflow speed by **40%**.  
+- Integrated **Google Sheets API** for real-time data updates and reports.  
+- **Stack:** JavaScript, n8n, WhatsApp Cloud API, Webhooks  
 
 ---
 
 ## 💼 EXPERIENCE LOGS
 
 ### 💠 Deloitte (Virtual Internship – Forage)
-- Developed **Power BI dashboards** for financial risk analytics.  
-- Provided actionable data insights for business strategy.
+- Created **interactive Power BI dashboards** for **financial risk analytics**.  
+- Streamlined KPI visualization for senior management, enhancing decision accuracy.  
+- Provided **data-driven insights** that supported business risk assessment.  
+- **Key Skills:** Power BI, Data Visualization, Business Analytics  
+
+---
 
 ### 🏦 JPMorgan Chase & Co. (Virtual Internship – Forage)
-- Configured **Kafka pipelines** for real-time data streaming.  
-- Enhanced backend performance through **async APIs**.
+- Configured **Kafka-based pipelines** to handle **real-time market data streaming**.  
+- Enhanced backend efficiency with **asynchronous Python APIs**.  
+- Developed logging modules to monitor data flow and detect anomalies.  
+- **Key Skills:** Python, Kafka, REST APIs, Async Programming  
+
+---
 
 ### 📊 AISECT – Data Science Intern
-- Created predictive ML models using **Scikit-learn**.  
-- Developed reports highlighting key data trends.
+- Built **predictive ML models** for classification and trend analysis.  
+- Conducted **exploratory data analysis (EDA)** and visualized insights for stakeholders.  
+- Automated report generation, saving an estimated **20%** of analyst time.  
+- **Key Skills:** Python, Pandas, Scikit-learn, Data Analysis  
+
+---
 
 ### 📢 AISECT – Digital Marketing Intern
-- Designed **SEO-driven campaigns** and performance dashboards.  
-- Improved engagement metrics using data analytics.
+- Managed **data-driven marketing campaigns** and created **SEO dashboards**.  
+- Analyzed engagement metrics and optimized ad performance, increasing reach by **30%**.  
+- Leveraged **Google Analytics** to refine audience targeting and reporting.  
+- **Key Skills:** Google Analytics, Excel, SEO, Campaign Strategy  
 
 ---
 
